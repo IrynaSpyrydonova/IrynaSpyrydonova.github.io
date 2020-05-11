@@ -1,11 +1,11 @@
 
 <div align="center"> Hello!👋
 
- Welcome to my <span style="color: red;">GitHub<span> page 🙂
+ Welcome to my GitHub page 🙂
 
  My name is __Iryna__, and I am very passionate about coding.
 
-## <span style = "color: purple"> Here you can check several of my **projects**</span>:
+## *Here you can check several of my* **projects**:
 
 |Number|Project name| Link to the project|
 |  :---:    |  :---: | :-: |
