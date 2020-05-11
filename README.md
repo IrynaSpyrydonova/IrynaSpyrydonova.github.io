@@ -1,11 +1,15 @@
 
  Hello!👋
+ 
 
  Welcome to my GitHub page 🙂
+ 
 
  My name is __Iryna__, and I am very passionate about coding.
+ 
 
 ## *Here you can check several of my* **projects**:
+
 
 |Number|Project name| Link to the project|
 |  :---:    |  :---: | :-: |
