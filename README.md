@@ -12,11 +12,14 @@
 | 1 | Meal Finder | [follow 👉🏻](https://irynaspyrydonova.github.io/VanillaJS_Meal_Finder/ )|
 | 2 | Hangman Game | [follow 👉🏻](https://irynaspyrydonova.github.io/VanillaJS_hangman_game/) |
 | 3 | Exchange rate calculator | [follow 👉🏻](https://irynaspyrydonova.github.io/VanillaJS_Exchange_calculator/) |
+
 </div>
 
- <span style ="color: purple">**My skills** :<span>
+ **My skills**:
+
  * HTML
  * CSS
  * JS
 
 Hope you liked it 😉
+
